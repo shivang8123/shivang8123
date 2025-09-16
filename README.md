@@ -1,7 +1,7 @@
 ## Hi, I’m Shivang Bhardwaj <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px> 
 
 <p>
-  <img src="https://readme-typing-svg.herokuapp.com?&font=IBM+Plex+Sans&color=abcdef&size=20&lines=Welcome+to+my+GitHub+Profile!;I'm+a+Programmer;I'm+a+frontend+Web+Developer;I'm+a++ECE+Student" />
+  <img src="https://readme-typing-svg.herokuapp.com?&font=IBM+Plex+Sans&color=abcdef&size=20&lines=Welcome+to+my+GitHub+Profile!;I'm+a+Linux+Administrator;I'm+a+frontend+Web+Developer;ECE+Graduate" />
 </p>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shivang8123&label=Profile%20views&color=0e75b6&style=flat" alt="shivang8123" /> </p>
 
