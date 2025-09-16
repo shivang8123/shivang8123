@@ -25,7 +25,7 @@
   </p>
 
 
-<p >Final Year Electronics & Communication Engineering Student at LNCT Bhopal | Passionate Programmer and Frontend Web Developer.
+<p >DevOps Intern @KubeRox Technologies || RHCSA || ECE Graduate || Cloud (AWS, Azure, GCP) || Google Cloud Arcade || Java Enthusiast || Cloud Computing || UI/UX Designer || Cybersecurity || Crafting digital experiences ||.
 </p>
 
 ## Tech Stack<img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> 
