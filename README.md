@@ -70,10 +70,10 @@ location : "Hyderabad, Telangana 🇮🇳"
 education: "ECE Graduate"
 
 certifications:
-  - "NCP CN — Nutanix Certified Professional Cloud Native"
-  - "NCS — Nutanix Certified Services – Core (NCS-Core) 6.8"
-  - "NCP MCI — Nutanix Certified Professional — Multicloud Infrastructure 6"
-  - "NCA —  Nutanix Certified Associated"
+  - "NCP CN — Nutanix Certified Professional Cloud Native (NCP-CN 6.10)"
+  - "NCS — Nutanix Certified Services – Core (NCS-Core 6.10)"
+  - "NCP MCI — Nutanix Certified Professional — Multicloud Infrastructure (NCP-MCI 6.10)"
+  - "NCA —  Nutanix Certified Associated (NCA 6.10)"
   - "RHCSA  — EX200 Red Hat Sys Admin"
   - "RHOCP  — OpenShift Container Platform"
   - "Google Cloud Arcade Achiever"
@@ -278,15 +278,15 @@ Cluster: HEALTHY 🔴
 ╔══════════════════════════════════════════════════════════════════════════╗
 ║                         EXPERTISE LEVEL MAP                              ║
 ╠══════════════════════════════════════════════════════════════════════════╣
-║                                                                          ║
+║  🖥️  Nutanix NKP           ██████████████████████        Expert                                                                     ║
 ║  🔴 OpenShift / OCP 4.x    ██████████████████████        Expert         ║
 ║  🐧 Linux / RHEL / RHCOS   ██████████████████████        Expert         ║
 ║  🐳 Docker / Containers    █████████████████████░        Expert         ║
-║  ☸️  Kubernetes             █████████████████████░       Expert         ║
-║  🖥️  Nutanix HCI / AHV      ████████████████████░░       Advanced       ║
+║  ☸️  Kubernetes            █████████████████████░        Expert          ║
+║  🖥️  Nutanix HCI / AHV     ██████████████████████        Expert         ║
 ║  🌐 DNS / HAProxy / LB     ████████████████████░░        Advanced       ║
 ║  🔐 TLS / PKI / Security   ███████████████████░░░        Advanced       ║
-║  ☁️  AWS / Azure / GCP      ██████████████████░░░░       Intermediate   ║
+║  ☁️  AWS / Azure / GCP     ██████████████████░░░░        Intermediate   ║
 ║  🔧 Ansible / Terraform    █████████████████░░░░░        Intermediate   ║
 ║  🎨 UI/UX Design           ████████████████░░░░░░        Intermediate   ║
 ║                                                                          ║
