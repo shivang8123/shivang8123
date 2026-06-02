@@ -70,6 +70,7 @@ location : "Hyderabad, Telangana 🇮🇳"
 education: "ECE Graduate"
 
 certifications:
+  - "NCP CN — Nutanix Certified Professional Cloud Native"
   - "NCS — Nutanix Certified Services – Core (NCS-Core) 6.8"
   - "NCP MCI — Nutanix Certified Professional — Multicloud Infrastructure 6"
   - "NCA —  Nutanix Certified Associated"
@@ -79,13 +80,18 @@ certifications:
   - "Nutanix NCA Associate"
 
 specializations:
+  - "Nutanix NKP — Nutanix Kubernetes Platforms Clusters"
   - "OpenShift UPI — Disconnected/Air-Gapped"
+  - "OpenShift Agent-Based — Disconnected/Air-Gapped"
+  - "OpenShift Assisted — Disconnected/Air-Gapped"
+  - "OpenShift IPI — Disconnected/Air-Gapped"
   - "Nutanix HCI — AHV & Prism Central"
   - "Linux Admin — RHEL / CentOS / RHCOS"
   - "Kubernetes — Bare Metal Clusters"
   - "Cloud Native — AWS / Azure / GCP"
 
 currently_working_on:
+- "Nutanix Disconnected/Air-Gapped Connected Cluster Deployment"
   - "OCP 4.18 Disconnected Bare Metal UPI"
   - "Nutanix AHV + OpenShift Integration"
   - "GitOps with ArgoCD on Air-Gapped OCP"
@@ -107,12 +113,12 @@ fun_fact: |
 ```bash
 ┌──[shivang@kubebox ~]
 └─$ oc get nodes
-NAME        STATUS   ROLES
-master-1    Ready    control-plane ✅
-master-2    Ready    control-plane ✅
-master-3    Ready    control-plane ✅
-worker-1    Ready    worker        ✅
-worker-2    Ready    worker        ✅
+NAME         STATUS     ROLES
+OpenShift    Ready     Master ✅
+NKP          Ready     Master ✅
+NCI          Ready     Master ✅
+Kubernetes   Ready     Master ✅
+Linux        Ready     Master ✅
 
 Cluster: HEALTHY 🔴
 ```
