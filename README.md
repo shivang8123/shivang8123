@@ -60,16 +60,16 @@
 <td width="52%" valign="top">
 
 ```bash
-┌──[shivang@kubebox ~]
+┌──[shivang@kubebrox ~]
 └─$ cat profile.yaml
 ```
 ```yaml
 name     : "Shivang Bhardwaj"
-role     : "DevOps Engineer @KubeRox Technologies"
+role     : "Nutanix®️ Certified Consultant"
 location : "Hyderabad, Telangana 🇮🇳"
 education: "ECE Graduate"
 
-certifications:
+Certifications:
   - "NCP CN — Nutanix Certified Professional Cloud Native (NCP-CN 6.10)"
   - "NCS — Nutanix Certified Services – Core (NCS-Core 6.10)"
   - "NCP MCI — Nutanix Certified Professional — Multicloud Infrastructure (NCP-MCI 6.10)"
@@ -79,7 +79,7 @@ certifications:
   - "Google Cloud Arcade Achiever"
   - "Nutanix NCA Associate"
 
-specializations:
+Specializations:
   - "Nutanix NKP — Nutanix Kubernetes Platforms Clusters"
   - "OpenShift UPI — Disconnected/Air-Gapped"
   - "OpenShift Agent-Based — Disconnected/Air-Gapped"
@@ -90,16 +90,13 @@ specializations:
   - "Kubernetes — Bare Metal Clusters"
   - "Cloud Native — AWS / Azure / GCP"
 
-currently_working_on:
+Currently_working_on:
 - "Nutanix Disconnected/Air-Gapped Connected Cluster Deployment"
   - "OCP 4.18 Disconnected Bare Metal UPI"
   - "Nutanix AHV + OpenShift Integration"
   - "GitOps with ArgoCD on Air-Gapped OCP"
   - "IaC — Ansible + Terraform Automation"
 
-fun_fact: |
-  I deploy full OCP clusters in environments
-  where Google can't even load a webpage 😎
 ```
 
 </td>
