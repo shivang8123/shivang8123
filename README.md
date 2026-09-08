@@ -70,9 +70,11 @@ location : "Hyderabad, Telangana 🇮🇳"
 education: "ECE Graduate"
 
 Certifications:
-  - "NCP CN — Nutanix Certified Professional Cloud Native (NCP-CN 6.10)"
+  - "NCP-CN — Nutanix Certified Professional - Artificial Intelligence (NCP-AI) 6"
+  - "OCI-OCA — Oracle Cloud Infrastructure Certified Architect Associate"
+  - "NCP-CN — Nutanix Certified Professional Cloud Native (NCP-CN 6.10)"
   - "NCS — Nutanix Certified Services – Core (NCS-Core 6.10)"
-  - "NCP MCI — Nutanix Certified Professional — Multicloud Infrastructure (NCP-MCI 6.10)"
+  - "NCP-MCI — Nutanix Certified Professional — Multicloud Infrastructure (NCP-MCI 6.10)"
   - "NCA —  Nutanix Certified Associated (NCA 6.10)"
   - "RHCSA  — EX200 Red Hat Sys Admin"
   - "RHOCP  — OpenShift Container Platform"
