@@ -95,7 +95,7 @@ Specializations:
 
 Currently_working_on:
   - "Nutanix Disconnected/Air-Gapped Connected Cluster Deployment"
-  - "OCP 4.18 Disconnected Bare Metal UPI"
+  - "OCP 4.xx Disconnected Bare Metal UPI"
   - "Nutanix AHV + OpenShift Integration"
   - "GitOps with ArgoCD on Air-Gapped OCP"
   - "IaC — Ansible + Terraform Automation"
@@ -115,9 +115,9 @@ Currently_working_on:
 ### 🔴 OpenShift & Container Platform
 
 <p align="center">
-<img src="https://img.shields.io/badge/OpenShift_4.18-EE0000?style=for-the-badge&logo=redhatopenshift&logoColor=white"/>
-<img src="https://img.shields.io/badge/OCP_UPI-cc0000?style=for-the-badge&logo=redhatopenshift&logoColor=white"/>
-<img src="https://img.shields.io/badge/oc--mirror_v2-8B0000?style=for-the-badge&logo=redhatopenshift&logoColor=white"/>
+<img src="https://img.shields.io/badge/OpenShift_4.xx-EE0000?style=for-the-badge&logo=redhatopenshift&logoColor=white"/>
+<img src="https://img.shields.io/badge/OCP_-cc0000?style=for-the-badge&logo=redhatopenshift&logoColor=white"/>
+<img src="https://img.shields.io/badge/oc--mirror_-8B0000?style=for-the-badge&logo=redhatopenshift&logoColor=white"/>
 <img src="https://img.shields.io/badge/OLM-cc0000?style=for-the-badge&logo=redhatopenshift&logoColor=white"/>
 <img src="https://img.shields.io/badge/Quay_Registry-40B4E5?style=for-the-badge&logoColor=white"/>
 <img src="https://img.shields.io/badge/CRI--O-396DA4?style=for-the-badge&logoColor=white"/>
@@ -152,7 +152,7 @@ Currently_working_on:
 ### 🐧 Linux & System Administration
 
 <p align="center">
-<img src="https://img.shields.io/badge/RHEL_9-EE0000?style=for-the-badge&logo=redhat&logoColor=white"/>
+<img src="https://img.shields.io/badge/RHEL_10/9/8-EE0000?style=for-the-badge&logo=redhat&logoColor=white"/>
 <img src="https://img.shields.io/badge/CentOS_8+-262577?style=for-the-badge&logo=centos&logoColor=white"/>
 <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white"/>
 <img src="https://img.shields.io/badge/RHCOS-EE0000?style=for-the-badge&logo=redhat&logoColor=white"/>
@@ -282,8 +282,9 @@ Currently_working_on:
 
 ```
 💬 Open to collaborating on:
-   🔴 OpenShift UPI / Disconnected deployments
-   🖥️ Nutanix HCI + AHV infrastructure
+   🔴 OpenShift Connected/Disconnected deployments
+   ☸️ Nutanix Kubernetes Connected/Air-Gapped deployments
+   🖥️ Nutanix NCI -> HCI + AHV infrastructure deployments
    🐧 Linux hardening & system automation
    ☸️ Kubernetes bare-metal cluster projects
    
