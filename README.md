@@ -70,6 +70,7 @@ location : "Hyderabad, Telangana 🇮🇳"
 education: "ECE Graduate"
 
 Certifications:
+  - "NCA —  Nutanix Certified Associated 7 (NCA 7)"
   - "NCP-CN — Nutanix Certified Professional - Artificial Intelligence (NCP-AI) 6"
   - "OCI-OCA — Oracle Cloud Infrastructure Certified Architect Associate"
   - "NCP-CN — Nutanix Certified Professional Cloud Native (NCP-CN 6.10)"
