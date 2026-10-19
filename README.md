@@ -4,7 +4,7 @@
 <!--                    HERO ANIMATED BANNER                               -->
 <!-- ═══════════════════════════════════════════════════════════════════════ -->
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,25:cc0000,50:1a1a2e,75:0066cc,100:0d1117&height=280&section=header&text=Shivang%20Bhardwaj&fontSize=60&fontColor=ffffff&fontAlignY=40&desc=DevOps%20Engineer%20%7C%20OpenShift%20%7C%20Kubernetes%20%7C%20Nutanix%20%7C%20Cloud%20%7C%20Linux&descAlignY=60&descSize=16&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,25:cc0000,50:1a1a2e,75:0066cc,100:0d1117&height=280&section=header&text=Shivang%20Bhardwaj&fontSize=60&fontColor=ffffff&fontAlignY=40&desc=DevOps%20Engineer%20%7C%20OpenShift%20%7C%20Kubernetes%20%7C%20Nutanix_K8s%20%7C%20Cloud%20%7C%20Linux&descAlignY=60&descSize=16&animation=fadeIn" width="100%"/>
 </div>
 
 <!-- ─── TYPING ANIMATIONS (FIXED — demolab reliable URLs) ─────────────── -->
