@@ -4,7 +4,11 @@
 <!--                    HERO ANIMATED BANNER                               -->
 <!-- ═══════════════════════════════════════════════════════════════════════ -->
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,25:cc0000,50:1a1a2e,75:0066cc,100:0d1117&height=280&section=header&text=Shivang%20Bhardwaj&fontSize=60&fontColor=ffffff&fontAlignY=40&desc=DevOps%20Engineer%20%7C%20OpenShift%20%7C%20Kubernetes%20%7C%20Nutanix_K8s%20%7C%20Cloud%20%7C%20Linux&descAlignY=60&descSize=16&animation=fadeIn" width="100%"/>
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,25:cc0000,50:1a1a2e,75:0066cc,100:0d1117&height=280&section=header&text=Shivang%20Bhardwaj&fontSize=60&fontColor=ffffff&fontAlignY=40&desc=6x%20Nutanix%20Certified%20Consultant%20%7C%20NCI%20%7C%20NKP%20%7C%20Cloud%20Native%20%7C%20Kubernetes%20%7C%20OpenShift%20%7C%20OCI%20%7C%20RHCSA%20%7C%20GCP%20%7C%20DevOps%20%7C%20AHV%20%7C%20HCI&descAlignY=60&descSize=14&animation=fadeIn" width="100%"/>
+
+</div>
 </div>
 
 <!-- ─── TYPING ANIMATIONS (FIXED — demolab reliable URLs) ─────────────── -->
